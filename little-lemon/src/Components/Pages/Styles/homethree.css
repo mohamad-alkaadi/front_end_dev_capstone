@@ -1,0 +1,78 @@
+.homeThree-grid-system{
+    display: grid;
+    grid-template-columns: repeat(12,1fr);
+    grid-template-rows: 200px auto;
+}
+
+.homeThree-title-container{
+    grid-column: 3/11;
+    grid-row: 1;
+
+    display: flex;
+    /* height: fit-content; */
+    /* background-color: lightcoral; */
+    justify-content: space-between;
+    /* margin-bottom: 1rem; */
+}
+
+.homeThree-title-container p{
+    align-self: center;
+    font-size: 4.5rem;
+    height: fit-content;
+
+}
+
+.homeThree-title-container a{
+    align-self: center;
+    color: black;
+    font-size: 1.3rem;
+    background-color: #f4ce14;
+    padding: .8rem 2rem;
+    font-weight: 600;
+    border-radius: 15px;
+}
+
+.homeThree-cards-container{
+    grid-column: span 12;
+    grid-row: 2;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.homeThree-card{
+    width: 250px;
+    background-color: #edefee;
+    padding-bottom: 2rem;
+    display: grid;
+}
+
+
+.homeThree-img-container{
+    width: 150px;
+    height: 150px;
+    justify-self: center;
+    border-radius: 20px;
+}
+
+.homeThree-img-container img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.homeThree-card-titleAndPrice{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 2rem;
+}
+
+.homeThree-card-price{
+    color: #ee9b75;
+}
+.homeThree-card p{
+    margin: 1rem 2rem;
+}
+
+.homeThree-card-button{
+    margin: 1rem 2rem;
+}
