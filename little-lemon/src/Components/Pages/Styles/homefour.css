@@ -1,0 +1,47 @@
+.homeFour-grid-system{
+    display: grid;
+    grid-template-columns: repeat(12,1fr);
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+.homeFour-HalfOne-container{
+    grid-column: span 6;
+    display: grid;
+    align-content: start;
+    justify-content: end;
+    margin-right: 2rem;
+}
+
+.homeFour-HalfOne-container p{
+    font-size: 3.5rem;
+    margin-bottom: 1.5rem;
+    color: #f4ce14;
+}
+.homeFour-HalfOne-container p span{
+    font-size: 2.5rem;
+    color: #495e57;
+}
+.homeFour-para{
+    color: #495e57;
+    font-size: 1.05rem;
+    margin-left: .15rem;
+}
+.homeFour-title{
+    width: 465px;
+}
+.homeFour-para{
+    width: 465px;
+}
+.homeFour-HalfTwo-container{
+    grid-column: span 6;
+    width: 465px;
+    margin-left: 2rem;
+
+}
+.homeFour-img-one{
+    margin-bottom: 1rem;
+}
+.homeFour-img{
+    border-radius: 5%;
+}

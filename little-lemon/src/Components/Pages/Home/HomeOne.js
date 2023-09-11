@@ -12,7 +12,7 @@ const HomeOne = () => {
       </div>
       <div className='header-sec-two'>
         <div className='header-img-container'>
-          <img src={homeOnePic}/>
+          <img src={homeOnePic} alt='this is a photo'/>
         </div>
       </div>
     </header>

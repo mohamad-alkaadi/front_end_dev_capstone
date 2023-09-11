@@ -1,8 +1,9 @@
 import React from 'react'
+import Construction from './Construction'
 
 const Order = () => {
   return (
-    <div>Order</div>
+    <div><Construction/></div>
   )
 }
 

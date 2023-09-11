@@ -1,8 +1,8 @@
 import React from 'react'
-
+import Construction from './Construction'
 const Login = () => {
   return (
-    <div>Login</div>
+    <div><Construction/></div>
   )
 }
 

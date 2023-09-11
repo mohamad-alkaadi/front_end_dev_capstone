@@ -1,8 +1,11 @@
 import React from 'react'
+import Construction from './Construction'
 
 const Menu = () => {
   return (
-    <div>Menu</div>
+    <div>
+    <Construction/>
+    </div>
   )
 }
 

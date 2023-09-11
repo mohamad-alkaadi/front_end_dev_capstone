@@ -1,25 +1,24 @@
 .homeThree-grid-system{
+    margin-top: 2rem;
     display: grid;
     grid-template-columns: repeat(12,1fr);
     grid-template-rows: 200px auto;
+    background-color: #495e57;
+    padding-bottom: 3rem;
 }
 
 .homeThree-title-container{
     grid-column: 3/11;
     grid-row: 1;
-
     display: flex;
-    /* height: fit-content; */
-    /* background-color: lightcoral; */
     justify-content: space-between;
-    /* margin-bottom: 1rem; */
 }
 
 .homeThree-title-container p{
     align-self: center;
-    font-size: 4.5rem;
-    height: fit-content;
-
+    font-size: 3.5rem;
+    color: #fff;
+    margin-left: 4.7rem;
 }
 
 .homeThree-title-container a{
@@ -36,14 +35,18 @@
     grid-column: span 12;
     grid-row: 2;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     
 }
 .homeThree-card{
     width: 250px;
     background-color: #edefee;
-    padding-bottom: 2rem;
+    padding-bottom: 1rem;
     display: grid;
+    border-radius: 5%;
+    padding-top: 1rem;
+    margin: 0 1rem;
+    color: #495e57;
 }
 
 
@@ -58,21 +61,20 @@
     width: 100%;
     height: 100%;
     object-fit: contain;
+    border-radius: 50%;
 }
 
-.homeThree-card-titleAndPrice{
-    display: flex;
-    justify-content: space-between;
-    margin: 0 2rem;
+.homeThree-card-title{
+    justify-self: center;
 }
 
 .homeThree-card-price{
     color: #ee9b75;
 }
 .homeThree-card p{
-    margin: 1rem 2rem;
+    text-align: center;
 }
 
-.homeThree-card-button{
-    margin: 1rem 2rem;
+.homeThree-stars-container{
+    justify-self: center;
 }

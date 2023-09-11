@@ -1,8 +1,10 @@
 import React from 'react'
+import Construction from './Construction'
 
 const About = () => {
   return (
-    <div>About</div>
+    <div><Construction/>
+    </div>
   )
 }
 
