@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/front_end_dev_capstone/static/css/main.3c108293.css",
-    "main.js": "/front_end_dev_capstone/static/js/main.ecf9f7f3.js",
+    "main.js": "/front_end_dev_capstone/static/js/main.e0d12766.js",
     "static/js/787.a2f6b77c.chunk.js": "/front_end_dev_capstone/static/js/787.a2f6b77c.chunk.js",
     "static/media/MarioandAdrianA.jpg": "/front_end_dev_capstone/static/media/MarioandAdrianA.7f44c6d6e341a27d14b3.jpg",
     "static/media/MarioandAdrianb.jpg": "/front_end_dev_capstone/static/media/MarioandAdrianb.6ba0e06bfa9c1ea75109.jpg",
@@ -16,11 +16,11 @@
     "static/media/logo.svg": "/front_end_dev_capstone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/front_end_dev_capstone/index.html",
     "main.3c108293.css.map": "/front_end_dev_capstone/static/css/main.3c108293.css.map",
-    "main.ecf9f7f3.js.map": "/front_end_dev_capstone/static/js/main.ecf9f7f3.js.map",
+    "main.e0d12766.js.map": "/front_end_dev_capstone/static/js/main.e0d12766.js.map",
     "787.a2f6b77c.chunk.js.map": "/front_end_dev_capstone/static/js/787.a2f6b77c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c108293.css",
-    "static/js/main.ecf9f7f3.js"
+    "static/js/main.e0d12766.js"
   ]
 }
