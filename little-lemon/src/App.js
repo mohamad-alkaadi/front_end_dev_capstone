@@ -16,11 +16,11 @@ function App() {
       <NavBar/>
       <Routes>
           <Route path='/front_end_dev_capstone/' element={<Home/>}/>
-          <Route path='/front_end_dev_capstone/about' element={<About/>}/>
-          <Route path='/front_end_dev_capstone/menu' element={<Menu/>}/>
-          <Route path='/front_end_dev_capstone/reservations' element={<Reservations/>}/>
-          <Route path='/front_end_dev_capstone/order' element={<Order/>}/>
-          <Route path='/front_end_dev_capstone/login' element={<Login/>}/>
+          <Route path='/about' element={<About/>}/>
+          <Route path='/menu' element={<Menu/>}/>
+          <Route path='/reservations' element={<Reservations/>}/>
+          <Route path='/order' element={<Order/>}/>
+          <Route path='/login' element={<Login/>}/>
         </Routes>
     </div>
   );
