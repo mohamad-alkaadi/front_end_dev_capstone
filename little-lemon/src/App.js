@@ -16,6 +16,7 @@ function App() {
       <NavBar/>
       <Routes>
           <Route path='/' element={<Home/>}/>
+          <Route path='/front_end_dev_capstone/' element={<Home/>}/>
           <Route path='/about' element={<About/>}/>
           <Route path='/menu' element={<Menu/>}/>
           <Route path='/reservations' element={<Reservations/>}/>
