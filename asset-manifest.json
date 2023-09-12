@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/front_end_dev_capstone/static/css/main.3c108293.css",
-    "main.js": "/front_end_dev_capstone/static/js/main.93da036d.js",
-    "static/js/787.a2f6b77c.chunk.js": "/front_end_dev_capstone/static/js/787.a2f6b77c.chunk.js",
-    "static/media/MarioandAdrianA.jpg": "/front_end_dev_capstone/static/media/MarioandAdrianA.7f44c6d6e341a27d14b3.jpg",
-    "static/media/MarioandAdrianb.jpg": "/front_end_dev_capstone/static/media/MarioandAdrianb.6ba0e06bfa9c1ea75109.jpg",
-    "static/media/bruchetta.svg": "/front_end_dev_capstone/static/media/bruchetta.29ea078fea3d3120ed22402e901b5bbc.svg",
-    "static/media/greek-salad.jpg": "/front_end_dev_capstone/static/media/greek-salad.bed423a1fab5b210e347.jpg",
-    "static/media/restauranfood.jpg": "/front_end_dev_capstone/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
-    "static/media/Logo.svg": "/front_end_dev_capstone/static/media/Logo.6c132dfefa69396bba43f72aa595e62f.svg",
-    "static/media/customer1.jpg": "/front_end_dev_capstone/static/media/customer1.ccdcea01362423e8e2bf.jpg",
-    "static/media/customer3.jpg": "/front_end_dev_capstone/static/media/customer3.ba5a7f9f30d58ab385d9.jpg",
-    "static/media/customer4.jpg": "/front_end_dev_capstone/static/media/customer4.fa4be855aa1466a1fcb3.jpg",
-    "static/media/customer2.jpg": "/front_end_dev_capstone/static/media/customer2.333854849cb34643a28e.jpg",
-    "static/media/logo.svg": "/front_end_dev_capstone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/front_end_dev_capstone/index.html",
-    "main.3c108293.css.map": "/front_end_dev_capstone/static/css/main.3c108293.css.map",
-    "main.93da036d.js.map": "/front_end_dev_capstone/static/js/main.93da036d.js.map",
-    "787.a2f6b77c.chunk.js.map": "/front_end_dev_capstone/static/js/787.a2f6b77c.chunk.js.map"
+    "main.css": "/little-lemon/static/css/main.3c108293.css",
+    "main.js": "/little-lemon/static/js/main.62ec13bd.js",
+    "static/js/787.a2f6b77c.chunk.js": "/little-lemon/static/js/787.a2f6b77c.chunk.js",
+    "static/media/MarioandAdrianA.jpg": "/little-lemon/static/media/MarioandAdrianA.7f44c6d6e341a27d14b3.jpg",
+    "static/media/MarioandAdrianb.jpg": "/little-lemon/static/media/MarioandAdrianb.6ba0e06bfa9c1ea75109.jpg",
+    "static/media/bruchetta.svg": "/little-lemon/static/media/bruchetta.29ea078fea3d3120ed22402e901b5bbc.svg",
+    "static/media/greek-salad.jpg": "/little-lemon/static/media/greek-salad.bed423a1fab5b210e347.jpg",
+    "static/media/restauranfood.jpg": "/little-lemon/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/Logo.svg": "/little-lemon/static/media/Logo.6c132dfefa69396bba43f72aa595e62f.svg",
+    "static/media/customer1.jpg": "/little-lemon/static/media/customer1.ccdcea01362423e8e2bf.jpg",
+    "static/media/customer3.jpg": "/little-lemon/static/media/customer3.ba5a7f9f30d58ab385d9.jpg",
+    "static/media/customer4.jpg": "/little-lemon/static/media/customer4.fa4be855aa1466a1fcb3.jpg",
+    "static/media/customer2.jpg": "/little-lemon/static/media/customer2.333854849cb34643a28e.jpg",
+    "static/media/logo.svg": "/little-lemon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/little-lemon/index.html",
+    "main.3c108293.css.map": "/little-lemon/static/css/main.3c108293.css.map",
+    "main.62ec13bd.js.map": "/little-lemon/static/js/main.62ec13bd.js.map",
+    "787.a2f6b77c.chunk.js.map": "/little-lemon/static/js/787.a2f6b77c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c108293.css",
-    "static/js/main.93da036d.js"
+    "static/js/main.62ec13bd.js"
   ]
 }
